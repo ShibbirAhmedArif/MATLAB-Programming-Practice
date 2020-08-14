@@ -1,1 +1,1 @@
-This is a multiple wave representation program. Hope it will be useful for all learners.
+Doing lots of programs in MATLAB, I want to share them with all. Hope these will be useful for the learners.
