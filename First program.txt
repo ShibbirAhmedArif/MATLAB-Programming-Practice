@@ -1,0 +1,14 @@
+Ex. 1 Write your first Matlab program
+
+a = 7;
+b = 5;
+c = a+b
+
+Output:
+12
+
+Note: 
+
+(1) At the end of a statement, The semicolon acts to suppress output i.e. to keep the program running in a quiet mode. 
+
+(2) The third statement, c = a+b, is not followed by a semicolon so that the content of the variable c is "dumped" as the output.
