@@ -1,0 +1,18 @@
+Ex. 3 Basic math operations
+
+a = 4;
+b = 8;
+c = 2*a+b^2-a*b+b/a-10
+
+Output:
+32
+
+Note: 
+
+The right hand side of the third statement includes all 4 of the basic arithmetic
+operators, + (addition), - (subtraction), * (multiplication), and / (division), in their usual
+meaning. It also includes the symbol, ^, which means "to the power of", so "b^2" means
+(the content of b) to the power of 2, i.e., 8^2 = 64. The right hand side of that statement is
+first evaluated: r.h.s. = 2 x 4 + 8^2 - 4 x 8 + 8/4 - 10 = 32. The content of r.h.s., now 32,
+is then assigned to the variable c in the left hand side. Since this statement is not
+followed by a semicolon, the content of c is dumped as the final output.
